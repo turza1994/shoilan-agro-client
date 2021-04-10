@@ -1,0 +1,14 @@
+.link{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    margin-right: 25px;
+}
+
+.link button{
+    padding: 3px 10px;
+    font-size: 18px;
+    background-color: tomato;
+    color: white;
+    font-weight: 600;
+}
